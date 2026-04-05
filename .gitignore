@@ -29,6 +29,7 @@ MANIFEST
 __pycache__/
 *.py[cod]
 *$py.class
+*.csv
 
 ### PyCharm ###
 .idea/
