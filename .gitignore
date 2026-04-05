@@ -1,0 +1,41 @@
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+### Python ###
+venv/
+.venv/
+env/
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+__pycache__/
+*.py[cod]
+*$py.class
+
+### PyCharm ###
+.idea/
+
+### Scrapy (크롤링 시 생성될 수 있음) ###
+.scrapy/
+
+### 배포/로그 ###
+*.log
+*.sqlite3
